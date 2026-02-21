@@ -5,6 +5,8 @@ A modern and responsive landing page for an EdTech business that teaches coding.
 This project is built using only **HTML and CSS**.  
 It focuses on clean layout, proper spacing, alignment, color palette, and non-overlapping design.
 
+## Deployed Link
+https://jazzy-griffin-949875.netlify.app/
 
 ## 📌 Project Overview
 
